@@ -1,0 +1,23 @@
+Date: 27/06/2026
+
+Built:
+- Installed Git
+- Created first Git repository
+- Made first Git commit
+- Pushed first project to GitHub
+- Learned semantic HTML basics
+
+Learned:
+- Difference between <section> and <div>
+- Why <main> exists
+- Git workflow:
+  git add → git commit → git push
+
+Mistakes:
+- Wrote git add. instead of git add .
+- Confused article and div
+- Thought nav should be 4 tags
+
+Tomorrow:
+- Build Navigation Bar
+- Learn CSS Flexbox
