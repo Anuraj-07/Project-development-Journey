@@ -1,1 +1,142 @@
+#Topics Learned
+#1. HTML Semantic Tags
+<header>
+<nav>
+<main>
+<section>
+<div>
 
+Why?
+
+Semantic tags make code readable and help search engines understand your website.
+
+#2. Flexbox
+display:flex;
+
+Creates a flexible container.
+
+By default children become
+
+A B C
+
+instead of
+
+A
+B
+C
+
+#3. justify-content
+
+Controls horizontal alignment.
+
+Example
+
+justify-content:center;
+
+Moves items to the center horizontally.
+
+#4. align-items
+
+Controls vertical alignment.
+
+Example
+
+align-items:center;
+
+Moves items to the center vertically.
+
+#5. gap
+
+Instead of
+
+margin-right
+
+margin-left
+
+Use
+
+gap:20px;
+
+Cleaner.
+
+#6. object-fit
+object-fit:cover;
+
+Makes images/videos fill the box without distortion.
+
+#7. border-radius
+
+Rounds corners.
+
+Example
+
+border-radius:20px;
+#8. box-shadow
+
+Adds depth.
+
+Example
+
+box-shadow:0 10px 20px rgba(0,0,0,.2);
+#9. Google Fonts
+
+Imported
+
+Playfair Display
+
+Used for premium typography.
+
+#10. Hero Section Layout
+
+Created using Flexbox.
+
+Left Side
+
+Restaurant Name
+Tagline
+Hero Image
+
+Right Side
+
+Image
+Video
+Video
+Button
+
+#11. CSS Properties Learned
+display
+
+width
+
+height
+
+padding
+
+margin
+
+font-size
+
+font-family
+
+color
+
+background
+
+box-shadow
+
+border-radius
+
+transition
+
+object-fit
+
+gap
+Challenges Faced
+Hero alignment
+Flexbox spacing
+Image sizing
+Video sizing
+Layout balancing
+Outcome
+
+Built the hero section of a premium restaurant landing page using HTML and CSS.
