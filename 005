@@ -1,1 +1,34 @@
+Date: 02 July 2026
+Day 5 - Building Premium Food Cards
+Today I learned:
+Learned how CSS Positioning works using position: relative and position: absolute.
+Understood why a parent needs position: relative before positioning child elements absolutely.
+Added a "Best Seller" badge on food cards using absolute positioning.
+Learned the difference between Margin (spacing) and Top/Left/Right/Bottom (positioning).
+Fixed a CSS bug where every <span> was getting text-decoration: line-through by using a more specific selector (.card h4 span).
+Learned about CSS Specificity and why more specific selectors override general ones.
 
+Added Image Hover Zoom using:
+
+transform: scale();
+Learned why transform: scale() is preferred over increasing width for hover animations.
+
+Understood the purpose of:
+
+overflow: hidden;
+
+to prevent zoomed images from overflowing outside the card.
+
+Improved card interactions by using:
+cursor: pointer
+transition
+transform
+box-shadow
+
+Learned how hovering a parent element can animate its child elements using selectors like:
+
+.card:hover img
+.card:hover .btn
+Learned why gap is better than applying multiple margins when using Flexbox.
+Understood how clean code organization makes CSS easier to maintain and debug.
+Practiced thinking from a UI/UX perspective by discussing hover animations, user attention, and premium website interactions.
